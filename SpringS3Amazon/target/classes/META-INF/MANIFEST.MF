@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringS3Amazon
+Implementation-Version: 0.0.1
+Built-By: lenovo
+Implementation-Vendor-Id: com.javasampleapproach.s3
+Build-Jdk: 1.8.0_231
+Implementation-URL: http://projects.spring.io/spring-boot/SpringS3Amaz
+ on/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
